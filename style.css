@@ -34,7 +34,6 @@ body {
 }
 
 .btn:hover {
-  /* background: #0c28c7; */
   background-color: green;
   color: white;
   transition: all 0.8s ease;
